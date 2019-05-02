@@ -1,0 +1,4 @@
+/Users/adele/Desktop/EPFL-vita-work/socket-loomo-v2/socket-loomo/socket/build/CMakeFiles/rebuild_cache.dir
+/Users/adele/Desktop/EPFL-vita-work/socket-loomo-v2/socket-loomo/socket/build/CMakeFiles/edit_cache.dir
+/Users/adele/Desktop/EPFL-vita-work/socket-loomo-v2/socket-loomo/socket/build/CMakeFiles/server.dir
+/Users/adele/Desktop/EPFL-vita-work/socket-loomo-v2/socket-loomo/socket/build/CMakeFiles/client.dir
